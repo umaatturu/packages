@@ -1,0 +1,18 @@
+ hello
+git init 
+git add .
+or git add <file name>
+git status
+git commit -m main
+git branch -M main
+git remote add origin url
+git push origin main
+git branch -c <branch name>
+git checkout <branch name>
+git log
+git log --oneline
+git show <one loine code>
+git diff
+git clone url
+git pull
+ 
